@@ -17,6 +17,9 @@ Skills: Dart / Flutter
 #### My Respositories
 - noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
 - facebook-Clone (Full Social App) Link => https://github.com/MostafaBastawy/Facebook-Clone .
+- news app Link => https://github.com/MostafaBastawy/newsapp .
+- private note app Link => https://github.com/MostafaBastawy/Private-Note .
+- calculator app Link => https://github.com/MostafaBastawy/Calculator .
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MostafaBastawy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafa-bastawy-64762b135//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/M.Bastawyyy/)  
