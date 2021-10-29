@@ -10,7 +10,8 @@ I'm Flutter Developer from Egypt.
 - Good knowledge of Shared Preference Database .
 - Good knowledge of State Management ( Bloc ) .
 
-Skills: Dart / Flutter
+#### Skills
+- Dart / Flutter
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 
