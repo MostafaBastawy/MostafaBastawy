@@ -20,4 +20,4 @@ Skills: Dart / Flutter
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaBastawy)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MostafaBastawy)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MostafaBastawy)](https://github.com/MostafaBastawy)
