@@ -10,8 +10,21 @@ I'm Flutter Developer from Egypt.
 - Good knowledge of Shared Preference Database .
 - Good knowledge of State Management ( Bloc ) .
 
-#### Skills
-- Dart / Flutter
+#### Technical Skills
+- Object Oriented Programming ( OOP )
+- Problem Solving
+- solid principles
+- Flutter
+- Dart
+- Firebase Database
+- Firebase Authentication
+- REST APIS ( Dio & HTTP Packages )
+- Shared Preference Database
+- SQLlite
+- Localization
+- Animation
+- State Management ( Bloc )
+- State Management ( Provider )
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 
