@@ -2,13 +2,15 @@
 ![Profile views](https://gpvc.arturio.dev/MostafaBastawy)  
 #### About me
 I'm Flutter Developer from Egypt.
-- Flutter developer .
+- Flutter developer Freelance .
 - Good knowledge of firebase real time database ( Online Database ) .
 - Good knowledge of Sqllite ( Offline Database ) .
 - Good knowledge with Restful APIS using Dio and Http Package .
 - Familiarity with GitHub .
 - Good knowledge of Shared Preference Database .
 - Good knowledge of State Management ( Bloc ) .
+- Familiarity with Streaming .
+- Familiarity with Online Payment .
 
 #### Technical Skills
 - Object Oriented Programming ( OOP )
@@ -26,10 +28,13 @@ I'm Flutter Developer from Egypt.
 - State Management ( Bloc )
 - State Management ( Provider )
 - Online Payment ( Stripe & Pay )
+- Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 
 #### My Respositories
+- Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
+- Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_User
 - noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
 - facebook-Clone (Full Social App) Link => https://github.com/MostafaBastawy/Facebook-Clone .
