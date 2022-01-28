@@ -60,7 +60,6 @@ https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-
 <table>
   <tr>
     <td><img src="lib/foodadmin/screenshot1.jpg" width=270 height=480></td>
-    <td><img src="lib/foodadmin/screenshot2.jpg" width=270 height=480></td>
   </tr>
  </table>
 
