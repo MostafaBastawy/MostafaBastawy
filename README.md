@@ -43,11 +43,62 @@ I'm Flutter Developer from Egypt.
 - calculator app Link => https://github.com/MostafaBastawy/Calculator .
 
 
-#### My Respositories Screenshots and Tutorial
+#### My Repositories Screenshots and Tutorial
 
-- Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
-  
+- Alasoom an application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
 
+## Video
+
+
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom1.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom2.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom4.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom7.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom8.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom9.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom10.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom11.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom12.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom13.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom14.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom15.jpg" width=270 height=480></td>
+  </tr>
+ </table>
 
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
 
