@@ -47,10 +47,113 @@ I'm Flutter Developer from Egypt.
 
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
+
+## Video
+
+https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-b5b4-19d5ea0072ff.mp4
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/screenshot1.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/screenshot2.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_User
+
+## Video
+
+https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-b5b4-19d5ea0072ff.mp4
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/screenshot1.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/screenshot2.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 - noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
+
+## Video
+
+https://user-images.githubusercontent.com/81096412/139444507-9e974305-d9a1-4870-9f6d-179176c2f4d0.mp4
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/noon1.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/noon2.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/noon3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/noon4.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/noon5.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/noon6.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/noon7.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 - facebook-Clone (Full Social App) Link => https://github.com/MostafaBastawy/Facebook-Clone .
+
+## Video
+
+https://user-images.githubusercontent.com/81096412/139437191-0541077e-7405-428d-a62c-af63a8300d4b.mp4
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/facebook1.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/facebook2.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/facebook3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/facebook4.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/facebook5.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/facebook6.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
 - news app Link => https://github.com/MostafaBastawy/newsapp .
+
+## Video
+
+https://user-images.githubusercontent.com/81096412/139444928-5ab2aac8-18d2-4dd0-8541-65ed550254e4.mp4
+
+## Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/news1.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news2.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/screen_shots/news4.jpg" width=270 height=480></td>
+    <td><img src="lib/screen_shots/news5.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+
 - private note app Link => https://github.com/MostafaBastawy/Private-Note .
 
 ## Video
