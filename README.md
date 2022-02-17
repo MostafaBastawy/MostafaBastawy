@@ -1,4 +1,6 @@
 ### Hi there 👋, my name is Mostafa Bastawy
+Contact number +201063136366
+Contact email mostafa.bastawyy@gmail.com
 ![Profile views](https://gpvc.arturio.dev/MostafaBastawy)  
 #### About me
 I'm Flutter Developer from Egypt.
