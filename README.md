@@ -14,7 +14,7 @@ I'm Flutter Developer from Egypt.
 - Good knowledge of Shared Preference Database .
 - Good knowledge of State Management ( Bloc ) .
 - Familiarity with Streaming .
-- Familiarity with Online Payment .
+- Good knowledge with Online Payment .
 
 #### Technical Skills
 - Object Oriented Programming ( OOP )
@@ -31,13 +31,15 @@ I'm Flutter Developer from Egypt.
 - Animation
 - State Management ( Bloc )
 - State Management ( Provider )
-- Online Payment ( Stripe & Pay )
+- Online Payment (payment gateways & in app purchases)
 - Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 
 #### My Respositories
-- Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
+- Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
+    Google Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
+    Apple Store : 
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
 - Food Delivery App Link => https://github.com/MostafaBastawy/Food_User
 - noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
