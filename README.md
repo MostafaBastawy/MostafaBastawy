@@ -57,7 +57,7 @@
 
 <h2> Samples from my projects </h2>
 
-### Alasoom
+### Alasoom App
 
 This application is like Olx but its contain many new features as the user has the ability to list his adds or make
 a stream video and represent his product or staff by his self and can manage the stream channel and messages
@@ -66,18 +66,72 @@ gateway for activating membership, there are three level of authority to manage 
 Admin & Manager ) and many more features .
 <p><a href="https://play.google.com/store/apps/details?id=com.alasoom.alasoom " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
- <hr>
+<hr>
 
-- Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
-    - Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
-    - Apple Store : https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone
-- Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
-- Food Delivery App Link => https://github.com/MostafaBastawy/Food_User
-- noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
-- facebook-Clone (Full Social App) Link => https://github.com/MostafaBastawy/Facebook-Clone .
-- news app Link => https://github.com/MostafaBastawy/newsapp .
-- private note app Link => https://github.com/MostafaBastawy/Private-Note .
-- calculator app Link => https://github.com/MostafaBastawy/Calculator .
+### Food Delivery App(Admin)
+
+This is a full Food Delivery App. I made by using Firebase (Authentication, Firestore Database, Storage),and
+State Management (Bloc). This app give the admin ability to managing his categories and products by modification
+or deleting or adding new products or categories , also the ability to track the delivery process and the payment info
+<p><a href="https://github.com/MostafaBastawy/Food_Admin" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/Food_Admin" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+ 
+### Food Delivery App(User)
+
+This is a full Food Delivery App. I made by using Firebase (Authentication, Firestore Database, Storage),and
+State Management (Bloc). This app give the user ability to serving and purchasing the available products, choose
+the delivery option (delivery or pick up from store), choose the preferred payment method (cash on delivery or
+online payment using master or visa), ability to track his order status and location till receiving, also the user
+can change his delivery address & personal information.
+<p><a href="https://play.google.com/store/apps/details?id=com.mostafabastawyy.food_user_interface" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/Food_User" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+### Noon-Clone
+
+This is a full e-commerce application. I made by using Firebase, Shared Preference and State Management
+(Bloc). This app connects to the FirebaseFirestore to show you the all products in the store based on the
+category like (Baby-Electronics-Men's Fashion). Also you add your product to your favorites list to buy later or
+cart to make an order.
+<p><a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+### Facebook-Clone
+
+This is a full Social App. I made by using Firebase (Authentication, Firestore Database, Storage),and State
+Management (Bloc). This app give the user ability to share posts, share stories, chat with other users and edit
+his profile information & profile picture & cover Picture.
+<p><a href="https://github.com/MostafaBastawy/Facebook-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/Facebook-Clone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+### News App
+
+This is a news application. I made it to learn the all basics of the REST APIS (using Dio package), Shared
+Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
+the category like (Sports-Business-Science). Also it has the dark mode option.
+<p><a href="https://github.com/MostafaBastawy/newsapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/newsapp" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+### Private Note App
+
+This is a notes application. I made it to learn the all basics of the SQL-lite database and State Management
+(Bloc).It is very simple and easy to use. The main idea of the application is to store the user notes as tasks to
+help him managing his time. Also he sets a deadline to end this task and the application shows him if the task
+had done or not.
+<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
+
+### Calculator App
+
+This was my first application. It makes simple calculations.
+<p><a href="https://github.com/MostafaBastawy/Calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://github.com/MostafaBastawy/Calculator" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
 
 
 #### My Repositories Screenshots and Tutorial
