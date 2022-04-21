@@ -12,8 +12,13 @@
 - Good knowledge of State Management ( Bloc ) .
 - Familiarity with Streaming .
 - Good knowledge with Online Payment .
+<hr>
 
-#### Technical Skills
+<h2> Technical Skills <h2>
+ 
+<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+ -->
+ 
 - Object Oriented Programming ( OOP )
 - Problem Solving
 - solid principles
@@ -32,8 +37,13 @@
 - Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
-
-#### Contact with me on
+<hr>
+ 
+<h2>Contact with me on <h2>
+ 
+ <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+ -->
+ 
 - Email : mostafa.bastawyy@gmail.com
 - Phone : +201063136366
 
