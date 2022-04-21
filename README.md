@@ -52,16 +52,11 @@
 
 <!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 
-<!-- - whatsApp for bussines : http://Wa.me/201028205960
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
+
 <hr>
 
-#### My Respositories
+<h2> Samples from my projects </h2>
+
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
     - Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
     - Apple Store : https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone
