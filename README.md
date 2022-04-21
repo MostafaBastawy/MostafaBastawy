@@ -37,7 +37,7 @@
 - Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
-<hr>
+
  
 <h2>Contact with me on <h2>
  
