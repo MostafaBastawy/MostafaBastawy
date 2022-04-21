@@ -134,15 +134,16 @@ This was my first application. It makes simple calculations.
 <hr>
 
 
-#### My Repositories Screenshots and Tutorial
+<h2> Applications Screenshots and Tutorial </h2>
 
-- Alasoom an application which help you to sell your staff by two ways (stream or normal adds) => google play link & app store link
+<!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
+ -->
 
-## Video
+## Alasoom App Video
 
 https://user-images.githubusercontent.com/81096412/151624869-e3d79c9a-8ff3-4bd7-a3ea-6eec596c6e6e.mp4
 
-## Screenshots
+## Alasoom App Screenshots
 
 <table>
   <tr>
