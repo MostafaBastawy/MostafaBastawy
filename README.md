@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mostafa Bastawy 👋:heart: </h2>  ![Profile views](https://gpvc.arturio.dev/MostafaBastawy) 
+<h2> Hi there, I'm Mostafa Bastawy 👋:heart:  ![Profile views](https://gpvc.arturio.dev/MostafaBastawy)  </h2>  
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
