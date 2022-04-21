@@ -57,6 +57,17 @@
 
 <h2> Samples from my projects </h2>
 
+### Alasoom
+
+This application is like Olx but its contain many new features as the user has the ability to list his adds or make
+a stream video and represent his product or staff by his self and can manage the stream channel and messages
+during the stream, also there is a direct messaging and online payment through apple pay and third party
+gateway for activating membership, there are three level of authority to manage the whole app ( Supervisor &
+Admin & Manager ) and many more features .
+<p><a href="https://play.google.com/store/apps/details?id=com.alasoom.alasoom " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+ <hr>
+
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
     - Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
     - Apple Store : https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone
