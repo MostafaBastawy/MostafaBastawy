@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Mostafa Bastawy 👋:heart: </h2>
+<h2> Hi there, I'm Mostafa Bastawy 👋:heart: </h2>  ![Profile views](https://gpvc.arturio.dev/MostafaBastawy) 
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
@@ -340,8 +340,7 @@ https://user-images.githubusercontent.com/81096412/139444348-35a46147-030c-4429-
 <hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MostafaBastawy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafa-bastawy-64762b135//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/M.Bastawyyy/)  
-
-![Profile views](https://gpvc.arturio.dev/MostafaBastawy)  
+ 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaBastawy)  
 
