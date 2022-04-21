@@ -12,7 +12,7 @@
 - Good knowledge of State Management ( Bloc ) .
 - Familiarity with Streaming .
 - Good knowledge with Online Payment .
-
+<hr>
 
 <h2> Technical Skills </h2>
  
@@ -37,16 +37,16 @@
 - Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
-
+<hr>
  
-<h2>Contact with me on <h2>
+<h2>Contact with me on </h2>
  
  <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
  
 - Email : mostafa.bastawyy@gmail.com
 - Phone : +201063136366
-
+<hr>
 #### My Respositories
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
     - Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
