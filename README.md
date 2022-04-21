@@ -14,7 +14,7 @@
 - Good knowledge with Online Payment .
 
 
-<h2> Technical Skills <h2>
+<h2> Technical Skills </h2>
  
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
