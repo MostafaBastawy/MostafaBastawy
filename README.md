@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Mostafa Bastawy
 
-Contact number +201063136366
-Contact email mostafa.bastawyy@gmail.com
 
 ![Profile views](https://gpvc.arturio.dev/MostafaBastawy)  
 #### About me
@@ -35,6 +33,10 @@ I'm Flutter Developer from Egypt.
 - Agora SDK (Streaming)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
+
+#### Contact with me on
+- Email : mostafa.bastawyy@gmail.com
+- Phone : +201063136366
 
 #### My Respositories
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
