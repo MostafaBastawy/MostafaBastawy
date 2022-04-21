@@ -12,7 +12,7 @@
 - Good knowledge of State Management ( Bloc ) .
 - Familiarity with Streaming .
 - Good knowledge with Online Payment .
-<hr>
+
 
 <h2> Technical Skills <h2>
  
