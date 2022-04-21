@@ -192,13 +192,14 @@ https://user-images.githubusercontent.com/81096412/151624869-e3d79c9a-8ff3-4bd7-
   </tr>
  </table>
 
-- Food Delivery App Link => https://github.com/MostafaBastawy/Food_Admin
+<hr>
 
-## Video
+
+## Food Delivery App (Admin) Video
 
 https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-b5b4-19d5ea0072ff.mp4
 
-## Screenshots
+## Food Delivery App (Admin) Screenshots
 
 <table>
   <tr>
@@ -206,13 +207,14 @@ https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-
   </tr>
  </table>
 
-- Food Delivery App Link => https://github.com/MostafaBastawy/Food_User
+<hr>
 
-## Video
+
+## Food Delivery App (Usser) Video
 
 https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-b5b4-19d5ea0072ff.mp4
 
-## Screenshots
+## Food Delivery App (Usser) Screenshots
 
 <table>
   <tr>
@@ -221,13 +223,13 @@ https://user-images.githubusercontent.com/81096412/145720614-991565e0-f590-4b6b-
   </tr>
  </table>
 
-- noon-Clone (Full E-commerce App) Link => https://github.com/MostafaBastawy/noonClone .
+<hr>
 
-## Video
+## Noon-clone App Video
 
 https://user-images.githubusercontent.com/81096412/139444507-9e974305-d9a1-4870-9f6d-179176c2f4d0.mp4
 
-## Screenshots
+## Noon-clone App Screenshots
 
 <table>
   <tr>
@@ -251,13 +253,13 @@ https://user-images.githubusercontent.com/81096412/139444507-9e974305-d9a1-4870-
   </tr>
  </table>
 
-- facebook-Clone (Full Social App) Link => https://github.com/MostafaBastawy/Facebook-Clone .
+<hr>
 
-## Video
+## Facebook-Clone App Video
 
 https://user-images.githubusercontent.com/81096412/139437191-0541077e-7405-428d-a62c-af63a8300d4b.mp4
 
-## Screenshots
+## Facebook-Clone App Screenshots
 
 <table>
   <tr>
@@ -275,13 +277,13 @@ https://user-images.githubusercontent.com/81096412/139437191-0541077e-7405-428d-
   </tr>
  </table>
 
-- news app Link => https://github.com/MostafaBastawy/newsapp .
+<hr>
 
-## Video
+## News App Video
 
 https://user-images.githubusercontent.com/81096412/139444928-5ab2aac8-18d2-4dd0-8541-65ed550254e4.mp4
 
-## Screenshots
+## News App Screenshots
 
 <table>
   <tr>
@@ -298,14 +300,13 @@ https://user-images.githubusercontent.com/81096412/139444928-5ab2aac8-18d2-4dd0-
   </tr>
  </table>
 
+<hr>
 
-- private note app Link => https://github.com/MostafaBastawy/Private-Note .
-
-## Video
+## Private Note App Video
 
 https://user-images.githubusercontent.com/81096412/139445068-27529638-0add-489d-a25c-bae61087e247.mp4
 
-## Screenshots
+## Private Note App Screenshots
 
 <table>
   <tr>
@@ -321,13 +322,13 @@ https://user-images.githubusercontent.com/81096412/139445068-27529638-0add-489d-
   </tr>
  </table>
 
-- calculator app Link => https://github.com/MostafaBastawy/Calculator .
+<hr>
 
-## Video
+## Calculator App Video
 
 https://user-images.githubusercontent.com/81096412/139444348-35a46147-030c-4429-a8d5-2128fce68e54.mp4
 
-## Screenshots
+## Calculator App Screenshots
 
 <table>
   <tr>
@@ -335,6 +336,8 @@ https://user-images.githubusercontent.com/81096412/139444348-35a46147-030c-4429-
     <td><img src="lib/calculator/calculator2.jpg" width=270 height=480></td>
   </tr>
  </table>
+
+<hr>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MostafaBastawy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mostafa-bastawy-64762b135//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/M.Bastawyyy/)  
 
