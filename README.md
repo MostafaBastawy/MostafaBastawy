@@ -39,14 +39,28 @@
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 <hr>
  
-<h2>Contact with me on </h2>
- 
- <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
- -->
- 
-- Email : mostafa.bastawyy@gmail.com
-- Phone : +201063136366
+<h2> Contact with me on </h2>
+
+<!-- <h3>Where to find me</h3>
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github2" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+
+- email : mostafa.bastawyy@gmail.com
+- phone : +201063136366
+
+
+<p><a href="http://Wa.me/201063136366" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp%20bussines-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> <a href="https://www.facebook.com/M.Bastawyyy" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mostafa-bastawy-64762b135/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.youtube.com/channel/UC8938jUkEWeJIuTEs_uQ-CQ" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a><p>
+
+<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+
+<!-- - whatsApp for bussines : http://Wa.me/201028205960
+- business email : abdullah@mansouracademy.net
+- personal email : abdullah.mansour97@gmail.com
+- facebook : https://www.facebook.com/abdullahmanss
+- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
+- instagram : https://www.instagram.com/abdullahmanss
+- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
+
 #### My Respositories
 - Alasoom a application which help you to sell your staff by two ways (stream or normal adds) => 
     - Play Store : https://play.google.com/store/apps/details?id=com.alasoom.alasoom 
