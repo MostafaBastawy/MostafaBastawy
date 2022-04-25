@@ -73,7 +73,7 @@ Admin & Manager ) and many more features .
 This is a full Food Delivery App. I made by using Firebase (Authentication, Firestore Database, Storage),and
 State Management (Bloc). This app give the admin ability to managing his categories and products by modification
 or deleting or adding new products or categories , also the ability to track the delivery process and the payment info
-<p><a href="https://github.com/MostafaBastawy/Food_Admin" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/Food_Admin" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
  
