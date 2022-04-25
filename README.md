@@ -84,7 +84,7 @@ State Management (Bloc). This app give the user ability to serving and purchasin
 the delivery option (delivery or pick up from store), choose the preferred payment method (cash on delivery or
 online payment using master or visa), ability to track his order status and location till receiving, also the user
 can change his delivery address & personal information.
-<p><a href="https://play.google.com/store/apps/details?id=com.mostafabastawyy.food_user_interface" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://play.google.com/store/apps/details?id=com.mostafabastawyy.food_user_interface" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
 
@@ -94,7 +94,7 @@ This is a full e-commerce application. I made by using Firebase, Shared Preferen
 (Bloc). This app connects to the FirebaseFirestore to show you the all products in the store based on the
 category like (Baby-Electronics-Men's Fashion). Also you add your product to your favorites list to buy later or
 cart to make an order.
-<p><a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/noonClone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
 
@@ -103,7 +103,7 @@ cart to make an order.
 This is a full Social App. I made by using Firebase (Authentication, Firestore Database, Storage),and State
 Management (Bloc). This app give the user ability to share posts, share stories, chat with other users and edit
 his profile information & profile picture & cover Picture.
-<p><a href="https://github.com/MostafaBastawy/Facebook-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a><p>
+<p><a href="https://github.com/MostafaBastawy/Facebook-Clone" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a><p>
  
 <hr>
 
@@ -112,7 +112,7 @@ his profile information & profile picture & cover Picture.
 This is a news application. I made it to learn the all basics of the REST APIS (using Dio package), Shared
 Preference and State Management (Bloc). This app connects to the APIS to show the user all news based on
 the category like (Sports-Business-Science). Also it has the dark mode option.
-<p><a href="https://github.com/MostafaBastawy/newsapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/newsapp" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
 
@@ -122,14 +122,14 @@ This is a notes application. I made it to learn the all basics of the SQL-lite d
 (Bloc).It is very simple and easy to use. The main idea of the application is to store the user notes as tasks to
 help him managing his time. Also he sets a deadline to end this task and the application shows him if the task
 had done or not.
-<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/Private-Note" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
 
 ### Calculator App
 
 This was my first application. It makes simple calculations.
-<p><a href="https://github.com/MostafaBastawy/Calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <p>
+<p><a href="https://github.com/MostafaBastawy/Calculator" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Github-Source%20Code-blue" /></a> <p>
  
 <hr>
 
