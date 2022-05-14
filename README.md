@@ -150,49 +150,49 @@ This was my first application. It makes simple calculations.
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby1.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby2.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby3.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby1.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby2.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby3.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby4.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby5.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby6.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby4.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby5.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby6.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby7.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby8.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby9.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby7.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby8.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby9.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby10.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby11.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby12.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby10.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby11.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby12.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby13.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby14.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby15.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby13.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby14.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby15.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby16.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby17.jpg" width=270 height=480></td>
-    <td><img src="lib/weby/weby18.jpg" width=270 height=480></td>
+    <td><img src="lib/weby/weby16.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby17.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby18.png" width=270 height=480></td>
   </tr>
  </table>
 
