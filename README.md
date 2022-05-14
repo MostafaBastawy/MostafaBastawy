@@ -159,71 +159,79 @@ This was my first application. It makes simple calculations.
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby1.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby2.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby3.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven1.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven2.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven3.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby4.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby5.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby6.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven4.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven5.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven6.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby7.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby8.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby9.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven7.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven8.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven9.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby10.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby11.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby12.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven10.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven11.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven12.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby13.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby14.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby15.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven13.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven14.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven15.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby16.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby17.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby18.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven16.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven17.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven18.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby19.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby20.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby21.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven19.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven20.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven21.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby22.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby23.png" width=270 height=480></td>
-    <td><img src="lib/weby/weby24.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven22.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven23.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven24.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/weby/weby25.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven25.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven26.png" width=270 height=480></td>
+    <td><img src="lib/cureseven/cureseven27.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/cureseven/cureseven28.png" width=270 height=480></td>
   </tr>
  </table>
 
