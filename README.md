@@ -21,7 +21,6 @@
  
 - Object Oriented Programming ( OOP )
 - Problem Solving
-- solid principles
 - Flutter
 - Dart
 - Firebase Database
@@ -30,7 +29,6 @@
 - Shared Preference Database
 - SQLlite
 - Localization
-- Animation
 - State Management ( Bloc )
 - State Management ( Provider )
 - Online Payment (payment gateways & in app purchases)
