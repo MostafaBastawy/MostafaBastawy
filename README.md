@@ -55,6 +55,15 @@
 
 <h2> Samples from my projects </h2>
 
+### WEBY App
+
+WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue
+
+Play Store => in last development stage (90% completed)
+Apple Store => in last development stage (90% completed)
+
+<hr>
+
 ### Alasoom App
 
 Alasoom Application gives the user ability to list and sell his staff using two ways first traditional listing the product with full details, second by using live-streaming to present his staff and describe its feature and price and replying to onetime messaging. this app is monitoring by 3 levels of authorities (supervisors & Adding & General manager) each of them has his own authorities, this app contain two languages (Arabic & English) and working in Saudi Arabia as and planned to be used in all Gulf countries.
@@ -132,6 +141,62 @@ This was my first application. It makes simple calculations.
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
+
+## WEBY App Video
+
+
+
+## WEBY App Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom1.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom2.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom3.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom4.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom7.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom8.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom9.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom10.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom11.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom12.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom13.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom14.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom15.jpg" width=270 height=480></td>
+  </tr>
+ </table>
+
+<hr>
+
 
 ## Alasoom App Video
 
