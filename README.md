@@ -66,8 +66,7 @@ Apple Store => in mid development stage (60% completed)
 
 ### WEBY App
 
-WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue
-
+WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue, this app is coming in 3 languages (English & Russian & Azerbaijani) and will work in Azerbaijani as a first stage.
 Play Store => in last development stage (90% completed)
 Apple Store => in last development stage (90% completed)
 
