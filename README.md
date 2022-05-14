@@ -196,6 +196,28 @@ This was my first application. It makes simple calculations.
   </tr>
  </table>
 
+<table>
+  <tr>
+    <td><img src="lib/weby/weby19.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby20.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby21.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby22.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby23.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby24.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby25.png" width=270 height=480></td>
+  </tr>
+ </table>
+
 <hr>
 
 
