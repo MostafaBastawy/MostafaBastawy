@@ -55,6 +55,15 @@
 
 <h2> Samples from my projects </h2>
 
+### Cureseven App
+
+Cureseven is a medical Application which gives the user the ability to reserve cosmetic surgeries and contact a lot of doctors with many different medical packages, also the user can contact directly with chosen doctor through the app using (direct messages & voice calling & video calling), this app will be deployed with many languages and will work in Turkey as a first stage.
+
+Play Store => in mid development stage (60% completed)
+Apple Store => in mid development stage (60% completed)
+
+<hr>
+
 ### WEBY App
 
 WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue
@@ -141,6 +150,85 @@ This was my first application. It makes simple calculations.
 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
+
+## Cureseven App Video
+
+
+
+## Cureseven App Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby1.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby2.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby3.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby4.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby5.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby6.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby7.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby8.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby9.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby10.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby11.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby12.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby13.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby14.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby15.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby16.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby17.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby18.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby19.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby20.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby21.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby22.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby23.png" width=270 height=480></td>
+    <td><img src="lib/weby/weby24.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/weby/weby25.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<hr>
+
 
 ## WEBY App Video
 
