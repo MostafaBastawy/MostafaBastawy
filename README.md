@@ -324,48 +324,79 @@ https://user-images.githubusercontent.com/81096412/151624869-e3d79c9a-8ff3-4bd7-
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom1.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom2.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom3.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom1.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom2.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom3.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom4.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom4.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom5.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom5.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom6.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom7.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom5.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom6.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom7.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom8.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom9.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom10.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom8.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom9.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom10.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom11.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom12.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom13.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom11.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom12.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom13.png" width=270 height=480></td>
   </tr>
  </table>
 
 <table>
   <tr>
-    <td><img src="lib/alasoom/alasoom14.jpg" width=270 height=480></td>
-    <td><img src="lib/alasoom/alasoom15.jpg" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom14.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom15.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom16.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom17.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom18.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom19.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom20.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom21.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom22.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom23.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom24.png" width=270 height=480></td>
+    <td><img src="lib/alasoom/alasoom25.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/alasoom/alasoom26.png" width=270 height=480></td>
   </tr>
  </table>
 
