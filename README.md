@@ -59,8 +59,8 @@
 
 Cureseven is a medical Application which gives the user the ability to reserve cosmetic surgeries and contact a lot of doctors with many different medical packages, also the user can contact directly with chosen doctor through the app using (direct messages & voice calling & video calling), this app will be deployed with many languages and will work in Turkey as a first stage.
 
-Play Store => in mid development stage (60% completed)
-Apple Store => in mid development stage (60% completed)
+Play Store => in mid development stage (75% completed)
+Apple Store => in mid development stage (75% completed)
 
 <hr>
 
