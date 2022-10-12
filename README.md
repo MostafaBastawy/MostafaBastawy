@@ -66,7 +66,7 @@ Cureseven is a medical Application which gives the user the ability to reserve c
 ### WEBY App
 
 WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue, this app is coming in 3 languages (English & Russian & Azerbaijani) and will work in Azerbaijani as a first stage.
-<p><a href="https://play.google.com/store/apps/details?id=com.weby.weby " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.weby.weby" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.weby.weby " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/weby/id1627995272" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
 <hr>
