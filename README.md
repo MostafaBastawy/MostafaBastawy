@@ -9,8 +9,8 @@
 - Good knowledge with Restful APIS using Dio and Http Package .
 - Familiarity with GitHub .
 - Good knowledge of Shared Preference Database .
-- Good knowledge of State Management ( Bloc ) .
-- Familiarity with Streaming .
+- Good knowledge of State Management ( Bloc - Provider) .
+- Familiarity with Streaming ( agora).
 - Good knowledge with Online Payment .
 <hr>
 
@@ -55,10 +55,27 @@
 
 <h2> Samples from my projects </h2>
 
+### Yazl User App
+
+YAZL – is a one-stop shop to find, book and review places of your interest, from beauty salons to restaurants, from dress rentals to kid’s entertainment. Enjoy additional discounts, offers and be a part of special events.
+<p><a href="https://play.google.com/store/apps/details?id=az.yazl.client" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/yazl/id1538565667" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
+<hr>
+
+### Yazl Partner App
+
+YAZL is a solution for businesses that want to focus on both quality and growth.
+Partner app and additional Web Management Panel let you manage your visibility on the platform, inform your existing customers on changes, novelties and incentives and advertise yourself, thus additionally get new customers.
+<p><a href="https://play.google.com/store/apps/details?id=az.yazl.partner" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/yazl-partner/id1581781766" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+
+<hr>
+
 ### Cureseven App
 
 Cureseven is a medical Application which gives the user the ability to reserve cosmetic surgeries and contact a lot of doctors with many different medical packages, also the user can contact directly with chosen doctor through the app using (direct messages & voice calling & video calling), this app will be deployed with many languages and will work in Turkey as a first stage.
-<p><a href="https://play.google.com/store/apps/details?id=com.curesevenn.cureseven " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.curesevenn.cureseven" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.curesevenn.cureseven" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.curesevenn.cureseven" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
 <hr>
@@ -66,7 +83,7 @@ Cureseven is a medical Application which gives the user the ability to reserve c
 ### WEBY App
 
 WEBY Application gives the user the ability to sell products like alasoom but with more different option as in WEBY the user pays fixed $ per minute for using livestream and has the ability to keep it after finished to be recorded for flexible number of days, also has the ability to make his normal ads as vip ads to be more showable and get more customers also users has the ability to chat with support if they have any issue, this app is coming in 3 languages (English & Russian & Azerbaijani) and will work in Azerbaijani as a first stage.
-<p><a href="https://play.google.com/store/apps/details?id=com.weby.weby " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.weby.weby" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.weby.weby" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/weby/id1627995272" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 
 <hr>
@@ -74,7 +91,7 @@ WEBY Application gives the user the ability to sell products like alasoom but wi
 ### Alasoom App
 
 Alasoom Application gives the user ability to list and sell his staff using two ways first traditional listing the product with full details, second by using live-streaming to present his staff and describe its feature and price and replying to onetime messaging. this app is monitoring by 3 levels of authorities (supervisors & Adding & General manager) each of them has his own authorities, this app contain two languages (Arabic & English) and working in Saudi Arabia as and planned to be used in all Gulf countries.
-<p><a href="https://play.google.com/store/apps/details?id=com.alasoom.alasoom " target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/sa/app/على-السوم-مباشر/id1608086943?platform=iphone" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.alasoom.alasoom" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/على-السوم-مباشر/id1608086943" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
 
