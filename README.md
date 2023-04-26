@@ -122,10 +122,6 @@ Alasoom Application gives the user ability to list and sell his staff using two 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 
-## Cureseven App Video
-
-
-
 ## Cureseven App Screenshots
 
 <table>
