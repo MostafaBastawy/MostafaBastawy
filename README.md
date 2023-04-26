@@ -122,6 +122,61 @@ Alasoom Application gives the user ability to list and sell his staff using two 
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 
+<hr>
+
+## Yazl Partner App Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_partner/yazl1.png" width=270 height=480></td>
+    <td><img src="lib/yazl_partner/yazl2.png" width=270 height=480></td>
+    <td><img src="lib/yazl_partner/yazl3.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_partner/yazl4.png" width=270 height=480></td>
+    <td><img src="lib/yazl_partner/yazl5.png" width=270 height=480></td>
+    <td><img src="lib/yazl_partner/yazl6.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_partner/yazl7.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<hr>
+
+## Yazl User App Screenshots
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_client/yazl1.png" width=270 height=480></td>
+    <td><img src="lib/yazl_client/yazl2.png" width=270 height=480></td>
+    <td><img src="lib/yazl_client/yazl3.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_client/yazl4.png" width=270 height=480></td>
+    <td><img src="lib/yazl_client/yazl5.png" width=270 height=480></td>
+    <td><img src="lib/yazl_client/yazl6.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td><img src="lib/yazl_client/yazl7.png" width=270 height=480></td>
+    <td><img src="lib/yazl_client/yazl8.png" width=270 height=480></td>
+  </tr>
+ </table>
+
+<hr>
+
 ## Cureseven App Screenshots
 
 <table>
@@ -204,11 +259,6 @@ Alasoom Application gives the user ability to list and sell his staff using two 
 
 <hr>
 
-
-## WEBY App Video
-
-
-
 ## WEBY App Screenshots
 
 <table>
@@ -282,7 +332,6 @@ Alasoom Application gives the user ability to list and sell his staff using two 
  </table>
 
 <hr>
-
 
 ## Alasoom App Video
 
