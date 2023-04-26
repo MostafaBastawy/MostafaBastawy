@@ -3,15 +3,34 @@
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
 ![Profile views](https://gpvc.arturio.dev/MostafaBastawy) 
-- Flutter developer Freelancer .
-- Good knowledge of firebase real time database ( Online Database ) .
-- Good knowledge of Sqllite ( Offline Database ) .
-- Good knowledge with Restful APIS using Dio and Http Package .
-- Familiarity with GitHub .
-- Good knowledge of Shared Preference Database .
-- Good knowledge of State Management ( Bloc - Provider) .
-- Familiarity with Streaming ( agora).
-- Good knowledge with Online Payment .
+
+Good Morning all,
+
+I am an experienced Flutter developer . I know mobile app guidelines and release that UX/UI quality is essential in mobile apps. That's why I am very attentive to design layout and consistently deliver pixel-perfect layouts tested on various devices.
+
+I call myself a problem solver because I love challenges when it comes to programming. My objective is to help individuals and business enterprises to implement end-to-end business application solutions that increase production and operational efficiency.
+
+Brief summary:
+- 2+ years of mobile development experience
+- believe in writing clean code
+- always ready to learn new concepts and modern tech stack of development
+- keen interest to follow best architecture and practices to build an easily scalable product
+- excellent communication skills
+
+Programming languages:
+Dart, 
+
+Front-end:
+Flutter
+
+Mobile
+Flutter SDK
+
+Tools:
+ Upwork, Git, Github
+
+If you are looking for a reliable resource and mobile expert then you are at right place. Let's hop on initial call and convert your idea into beautiful application.
+
 <hr>
 
 <h2> Technical Skills </h2>
