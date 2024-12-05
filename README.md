@@ -11,7 +11,7 @@ I am an experienced Flutter developer . I know mobile app guidelines and release
 I call myself a problem solver because I love challenges when it comes to programming. My objective is to help individuals and business enterprises to implement end-to-end business application solutions that increase production and operational efficiency.
 
 Brief summary:
-- 2+ years of mobile development experience
+- 4+ years of mobile development experience
 - believe in writing clean code
 - always ready to learn new concepts and modern tech stack of development
 - keen interest to follow best architecture and practices to build an easily scalable product
@@ -38,20 +38,14 @@ If you are looking for a reliable resource and mobile expert then you are at rig
 <!-- <img align='right' src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="width:250px;border-radius:50%;">
  -->
  
-- Object Oriented Programming ( OOP )
-- Problem Solving
-- Flutter
-- Dart
-- Firebase Database
-- Firebase Authentication
+- Google Services
+- Local Database ( Hive - SharedPref )
+- State Management ( Bloc - Provider - Getx )
+- Payment gateways & In App Purchases
 - REST APIS ( Dio & HTTP Packages )
-- Shared Preference Database
-- SQLlite
 - Localization
-- State Management ( Bloc )
-- State Management ( Provider )
-- Online Payment (payment gateways & in app purchases)
-- Agora SDK (Streaming)
+- Streaming ( Agora )
+- Real Time ( Pusher & WebSockets & SignalR)
 
 - 🔭 I’m currently working on improving my skills as a mobile application developer. 
 <hr>
